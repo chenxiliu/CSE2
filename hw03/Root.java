@@ -3,7 +3,7 @@
 //02/07/2015
 //CSE 02 -- hw03
 //Root java program
-
+//This program is to estimate the cube root of the given number
 //import Scanner
 import java.util.Scanner;
 
