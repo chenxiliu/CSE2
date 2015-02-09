@@ -3,7 +3,7 @@
 //02/07/2015
 //CSE 02 -- hw03
 //Bicycle java program
-
+//This program is to find out the distance traveled and the average miles per hour from the given number of second and counts
 //import scanner
 import java.util.Scanner;
 
