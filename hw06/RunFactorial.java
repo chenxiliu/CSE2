@@ -2,6 +2,7 @@
 //03/01/2015
 //chenxi liu
 //cse 2 hw06
+//this program is to ask the use to enter an input in the range and calculate the factorial
 
 //import Scanner
 import java.util.Scanner;

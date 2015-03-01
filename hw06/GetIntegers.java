@@ -3,6 +3,7 @@
 //chenxi liu
 //cse 02 hw06
 //get integers java program
+//this program is to get integer from the user and print out the sum
 
 //import Scanner
 import java.util.Scanner;
