@@ -43,6 +43,10 @@ public class ArrayInputs{
             }
         }
         System.out.println("The array is:");
-        System.out.println(studentIds);
+        for (int i = 0; i < n ; i++)
+        {
+            int y = studentIds[i];
+            System.out.println(y);
+        }
     }
 }
