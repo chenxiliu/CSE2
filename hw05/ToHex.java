@@ -33,7 +33,7 @@ public class ToHex{
                 else 
                 {
 
-                System.out.print("The decimal numbers R: "+ number1 + "G: "+ number2 +" B: "+ number3 +", is represented in hexadecimal as: ");
+                System.out.print("The decimal numbers R: "+ number1 + " G: "+ number2 +" B: "+ number3 +", is represented in hexadecimal as: ");
                 //contiune to convert the three numbers into hexadecimal if everything is satisfied
                 int r1 = number1/16; // take the root of number 1 over 16
                 int re1 = number1%16; //take the remainer of number1 over 16
@@ -207,22 +207,22 @@ public class ToHex{
                  switch (re3)  // 10 - A, 11-B, 12 - C, 13 - D, 14 - E, 15 - F, print the letter out
                  {
                      case 10:
-                         s = "A";System.out.print(s);
+                         s = "A";System.out.println(s);
                          break;
                      case 11:
-                         s = "B";System.out.print(s);
+                         s = "B";System.out.println(s);
                          break;
                      case 12:
-                         s = "C";System.out.print(s);
+                         s = "C";System.out.println(s);
                          break;
                      case 13:
-                         s = "D";System.out.print(s);
+                         s = "D";System.out.println(s);
                          break;
                      case 14:
-                         s = "E";System.out.print(s);
+                         s = "E";System.out.println(s);
                          break;
                      case 15:
-                         s = "F";System.out.print(s);
+                         s = "F";System.out.println(s);
                          break;
                 
                  } //end of switch statement
